@@ -261,7 +261,7 @@ def m_bar_gend(df):
        plt.xlabel('Gender')
        plt.show()
    else:
-       pass
+       print('ok')
 
 def raw_data(df):
 
