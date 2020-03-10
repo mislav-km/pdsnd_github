@@ -5,7 +5,7 @@
 US Bike Share Data analysis with Python
 
 ### Description
-The project is about analyzing large datasets with Python. Therefore we were asked to write a Python Application, that analyses the datasets of three major US cities by filtering by city, month and day.
+The project is about analyzing large datasets with Python. Therefore we were asked to write a Python Application, that analyzes the datasets of three major US cities by filtering by city, month and day.
 
 ### Application Instructions
 * Start the app with the terminal
