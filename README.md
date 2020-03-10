@@ -25,7 +25,6 @@ bikesharetk.py
 * tkinter: https://effbot.org/tkinterbook/optionmenu.htm
 * matplotlib: https://matplotlib.org/3.1.1/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py, https://stackoverflow.com/questions/34490250/overflow-error-plot
 * pd.concat: https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
-* pd.concat: https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
 
 ### Credits
 I would like to give special thanks to my tutor Mercy from Udacity for her precious feedback. Please see further resources used above.
