@@ -239,7 +239,7 @@ def m_plot_age(df):
        plt.xlabel('Year of birth')
        plt.show()
    else:
-       pass
+       print('ok')
 
 
 def m_bar_gend(df):
