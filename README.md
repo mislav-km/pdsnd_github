@@ -27,4 +27,4 @@ bikesharetk.py
 * pd.concat: https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
 
 ### Credits
-I would like to give special thanks to my tutor Mercy from Udacity for her precious feedback. Please see further resources used above.
+I would like to give special thanks to my tutor Mercy from Udacity for her precious feedback!
