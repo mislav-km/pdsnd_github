@@ -2,7 +2,7 @@
 08.03.2020
 
 ### Project Title
-US Bike Share Data analysis with Python
+US Bike Share Data analysis with Python (Nanodegree Program "Programming for Data Science with Python")
 
 ### Description
 The project is about analyzing large datasets with Python. Therefore we were asked to write a Python Application, that analyzes the datasets of three major US cities by filtering by city, month and day.
